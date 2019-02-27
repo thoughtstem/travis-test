@@ -21,8 +21,6 @@ env:
     # create a Travis-CI build matrix to test against multiple Racket
     # versions.
     - RACKET_VERSION=7.0
-    - RACKET_VERSION=7.1
-    - RACKET_VERSION=HEAD
 
 matrix:
   allow_failures:
