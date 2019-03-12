@@ -1,5 +1,10 @@
 # travis-test
 
+NOTE: This is depricated.  We don't use it.  I'm just keeping it around for reference (e.g. webserver stuff)
+
+
+
+
 Simple solution for automatic build and continuous integration across Thoughtstem techs and languages:
 
 1) Deploy this to a Linux box (Amazon EC2's micro tier is fine) at /home/ubuntu/travis-test.  Make sure you have a static ip.
